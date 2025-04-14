@@ -25,7 +25,7 @@ public class MyClass {
 
         // long 64-bit
         long starsInGalaxy = 100_000_000L; // 100000000000
-        long bigNumber = 99999878776767675565L;
+        long bigNumber = 999998787767565L;
         long currentMillis = System.currentTimeMillis();
         System.out.println(currentMillis);
 
@@ -57,7 +57,7 @@ public class MyClass {
         boolean passed = (40 > 60);//false
 
         // String
-        String myFyllName = 'Tatiana Eglit';
+        String myFyllName = 'Nikita Milka';
 
 
     }
